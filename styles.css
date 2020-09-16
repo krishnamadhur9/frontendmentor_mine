@@ -1,6 +1,6 @@
 .title{
     color : hsl(300, 43%, 22%);
-    font-weight: 700;
+    
 }
 .attribution {
     font-size: 11px;
@@ -12,4 +12,7 @@
   .subtitle{
     color : hsl(300, 43%, 22%);
     font-weight: 400;
+}
+.bkgrd{
+    background: url(images/bg-pattern-bottom-desktop.svg);
 }
