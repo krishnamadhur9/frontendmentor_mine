@@ -18,5 +18,12 @@
 }
 .verified-buyer{
     background: hsl(300, 43%, 22%);
-    
+
+}
+.verified-buyer#name{
+    font-weight: bold;
+    color: white;
+}
+.verified-buyer#vb{
+    color: hsl(333, 80%, 67%);
 }
