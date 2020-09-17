@@ -18,7 +18,8 @@
 }
 .verified-buyer{
     background: hsl(300, 43%, 22%);
-
+    block-size: 100px;
+    border-radius: 12px;
 }
 .verified-buyer#name{
     font-weight: bold;
